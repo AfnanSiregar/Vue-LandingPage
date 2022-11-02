@@ -8,7 +8,7 @@
                 <p class="text-3xl font-semibold text-blue-900">
                     UNTUK PEMEGANG KARTU KREDIT
                 </p>
-                <img src="../assets/slides.png" alt="slides" class="py-5">
+                <img src="../assets/slides.png" alt="slides" class="py-10">
             </div>
             <div class="text-center">
                 <p class="text-2xl font-semibold">
