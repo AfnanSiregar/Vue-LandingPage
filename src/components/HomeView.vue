@@ -17,11 +17,11 @@
                 <div class="flex flex-col md:flex-row items-center justify-center gap-10 md:gap-20 py-10">
                     <div class="w-full md:w-6/12 md:text-right">
                         <p>
-                            Diberikan gratis secara cuma-cuma tanpa premi <br> <b>PREMI : 0,-(NOL RUPIAH)</b>
+                            Diberikan gratis secara cuma-cuma tanpa premi. <b>PREMI : 0,-(NOL RUPIAH)</b>
                         </p>
                         <br>
                         <p>
-                            Santunan meninggal dunia akibat kecelakaan sebesar <br> <b>Rp 25.000.000,-</b> (dua puluh
+                            Santunan meninggal dunia akibat kecelakaan sebesar <b>Rp 25.000.000,-</b> (dua puluh
                             lima
                             juta rupiah)
                         </p>
